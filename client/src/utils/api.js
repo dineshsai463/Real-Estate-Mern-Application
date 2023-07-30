@@ -1,7 +1,7 @@
 import axios from "axios";
 import dayjs from "dayjs";
 import { toast } from "react-toastify";
-
+P
 export const api = axios.create({
   baseURL: "https://real-estate-mern-application.vercel.app/api",
 });
